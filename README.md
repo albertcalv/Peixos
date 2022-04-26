@@ -41,24 +41,23 @@ python peixos/main_console.py --path_to_video=../video --path_to_video_back=../v
 ### How it works 
 Peixos allows automatic tracking, no human supervision and manual supervision, the software stops the execution in doubtful frames.  The usage of _Manual with UI Validation_ mode is recommended especially in low-quality videos. Check the following links with further information: 
 
--  [Automatic Mode](https://github.com/albertcalv/LYD-Peixos/wiki/Usage#how-it-works-automatic-tracking)  
+-  [Automatic Mode](https://github.com/albertcalv/Peixos/wiki/Usage#how-it-works-automatic-tracking)  
 
--  [Manual with UI Validation](https://github.com/albertcalv/LYD-Peixos/wiki/Usage#how-it-works-ui-validation)
+-  [Manual with UI Validation](https://github.com/albertcalv/Peixos/wiki/Usage#how-it-works-ui-validation)
 
 
 ## Peixos Wiki
 
 **Table of contents**
--  [Requirements and Installation](https://github.com/albertcalv/LYD-Peixos/wiki/requirements-and-Installation)  
+-  [Requirements and Installation](https://github.com/albertcalv/Peixos/wiki/requirements-and-Installation)  
   
--  [Usage of Peixos](https://github.com/albertcalv/LYD-Peixos/wiki/Usage)
+-  [Usage of Peixos](https://github.com/albertcalv/Peixos/wiki/Usage)
   
--  [Output Files](https://github.com/albertcalv/LYD-Peixos/wiki/Output) 
+-  [Output Files](https://github.com/albertcalv/Peixos/wiki/Output) 
   
--  [Configuration Parameters](https://github.com/albertcalv/LYD-Peixos/wiki/Configuration) 
+-  [Configuration Parameters](https://github.com/albertcalv/Peixos/wiki/Configuration) 
 
--  [Algorithm Documentation](https://github.com/albertcalv/LYD-Peixos/wiki/Algorithm-Documentation) 
+-  [Algorithm Documentation](https://github.com/albertcalv/Peixos/wiki/Algorithm-Documentation) 
   
--  [FAQs](https://github.com/albertcalv/LYD-Peixos/wiki/FAQs)
+-  [FAQs](https://github.com/albertcalv/Peixos/wiki/FAQs)
   
--  [Contact](https://github.com/albertcalv/LYD-Peixos/wiki/Contact)
